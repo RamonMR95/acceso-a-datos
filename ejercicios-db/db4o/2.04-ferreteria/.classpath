@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lawl/Documents/EspaciosDeTrabajo/AccesoADatos/p2.04-ferreteria-aad/p2.04-ferreteria-aad/lib/db4o-8.0.276.16149-all-java5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
