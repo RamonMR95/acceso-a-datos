@@ -9,10 +9,10 @@ creará un fichero XML por cada una de las tablas que existan dentro de la BBDD.
 
 ## Recursos
 
-- [CrearEmpleadoXml.java](https://github.com/RamonMR95/Ejercicios-2.2-SQLite-NBA-to-XML/blob/master/recursos/CrearEmpleadoXml.java)
+- [CrearEmpleadoXml.java](https://github.com/RamonMR95/acceso-a-datos/blob/master/ejercicios-db/2.2-SQLite-NBA-to-XML/recursos/CrearEmpleadoXml.java)
 
-- [EjemploDatabaseMetadata.java](https://github.com/RamonMR95/Ejercicios-2.2-SQLite-NBA-to-XML/blob/master/recursos/EjemploDatabaseMetadata.java)
+- [EjemploDatabaseMetadata.java](https://github.com/RamonMR95/acceso-a-datos/blob/master/ejercicios-db/2.2-SQLite-NBA-to-XML/EjemploDatabaseMetadata.java)
 
-- [EjemplogetColumns.java](https://github.com/RamonMR95/Ejercicios-2.2-SQLite-NBA-to-XML/blob/master/recursos/EjemplogetColumns.java)
+- [EjemplogetColumns.java](https://github.com/RamonMR95/acceso-a-datos/blob/master/ejercicios-db/2.2-SQLite-NBA-to-XML/EjemplogetColumns.java)
 
-- [nba_sqlite.db](https://github.com/RamonMR95/Ejercicios-2.2-SQLite-NBA-to-XML/blob/master/recursos/nba_sqlite.db)
+- [nba_sqlite.db](https://github.com/RamonMR95/acceso-a-datos/blob/master/ejercicios-db/2.2-SQLite-NBA-to-XML/nba_sqlite.db)
